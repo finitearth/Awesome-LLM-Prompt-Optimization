@@ -119,6 +119,8 @@ EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.13385)][[Github](https://github.
 
 ## Programming 
 
+
+
 **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** \
 *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03714)][[Github](https://github.com/stanfordnlp/dspy)] \
@@ -187,6 +189,11 @@ TMLR 2023. [[Paper](https://arxiv.org/abs/2201.08531)][[Github](https://github.c
 
 
 ## Gradient-free Methods 
+
+**CAPO: Cost-Aware Prompt Optimization** \
+*Tom Zehle, Moritz Schlager, Timo Heiß, Matthias Feurer* \
+arXiv 2025. [[Paper](https://arxiv.org/abs/2504.16005)] [[Github](https://github.com/finitearth/capo)] \
+22 Apr 2025
 
 **PROPANE: Prompt design as an inverse problem** \
 *Rimon Melamed, Lucas H. McCabe, Tanay Wakhare, Yejin Kim, H. Howie Huang, Enric Boix-Adsera* \
